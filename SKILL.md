@@ -1,6 +1,10 @@
 ---
 name: ministry-weekly
+version: 1.0.0
 description: Generate a complete weekly content package for church staff from a simple Sunday briefing. Use this skill whenever someone mentions a sermon, Sunday service, church bulletin, weekly announcements, ministry social posts, church email newsletter, or asks for help with any church communications. Trigger even if the request is casual -- "help me with Sunday's stuff" or "I need content for this week" from a church context should activate this skill. This skill turns a one-sentence briefing into a full content package: bulletin draft, social media posts, and a weekly email announcement.
+metadata:
+  openclaw:
+    emoji: ✝️
 ---
 
 # Ministry Weekly
